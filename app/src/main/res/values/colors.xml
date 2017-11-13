@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6a1b9a</color>
+    <color name="colorPrimaryDark">#4a148c</color>
+    <color name="colorAccent">#aa00ff</color>
+
+    <!-- colors for task priority selection -->
+    <color name="materialRed">#b71c1c</color>
+    <color name="materialBlue">#0d47a1</color>
+    <color name="materialGreen">#1b5e20</color>
+
+    <color name="lightGrey">#20000000</color>
+
+</resources>

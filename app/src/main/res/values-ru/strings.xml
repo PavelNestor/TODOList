@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TODOList</string>
+    <string name="title">Задача</string>
+    <string name="description">Подробности</string>
+    <string name="priority_label">Приоритет</string>
+    <string name="editor_title_new_task">Новая задача</string>
+    <string name="editor_title_edit_task">Редактировать задачу</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_delete">Удалить</string>
+    <string name="keep_editing">Продолжить редактирование</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отменить</string>
+    <string name="delete_dialog_msg">Удалить эту задачу?</string>
+    <string name="discard">Сбросить</string>
+    <string name="unsaved_changes_dialog_msg">Сбросить изменения и закончить редактирование?</string>
+    <string name="editor_insert_successful">Задача успешно добавлено</string>
+    <string name="editor_insert_failed">Ошибка добавления задачи</string>
+</resources>
